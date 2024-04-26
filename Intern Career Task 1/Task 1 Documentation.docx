@@ -1,0 +1,24 @@
+Overview:
+The Basic Calculator application is a straightforward command-line tool designed to perform basic arithmetic operations including addition, subtraction, multiplication, and division. The application is intended for users who require quick and simple calculations.
+
+Features:
+Arithmetic Operations: Perform addition (+), subtraction (-), multiplication (*), and division (/).
+Error Handling: Includes checks for division by zero.
+User Interface: Command-line interface for easy use and accessibility.
+How to Run the Application:
+Prerequisites: Java must be installed on your system.
+Compilation:
+Navigate to the directory containing BasicCalculator.java.
+Compile the Java program: javac BasicCalculator.java.
+Execution:
+Run the compiled Java program: java BasicCalculator.
+Follow the on-screen prompts to input numbers and select an operation.
+Usage Instructions:
+Upon execution, enter the first number when prompted.
+Enter the second number.
+Input the desired operation when prompted (+, -, *, /). To exit the application, enter 'q'.
+If an invalid operation is entered, an error message will be displayed.
+Maintenance and Extensibility:
+Code Maintenance: The code is well-commented to help understand and modify the program as needed.
+Extensibility: New features like more complex operations or graphical user interface can be added by extending the existing classes and methods.
+This document provides a concise overview of running and maintaining the Basic Calculator application, ensuring ease of use and adaptability.
